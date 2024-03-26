@@ -7,7 +7,7 @@
 To create your own content providers to get contacts details using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
+ 
 Android Studio(Latest Version)
 
 ## ALGORITHM:
